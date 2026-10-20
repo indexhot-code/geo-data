@@ -1,0 +1,16 @@
+industry,platform,total_prompts,mention_rate
+SaaS,ChatGPT,500,42.5
+SaaS,Perplexity,500,38.2
+SaaS,Gemini,500,25.1
+E-commerce,ChatGPT,500,55.0
+E-commerce,Perplexity,500,41.3
+E-commerce,Gemini,500,30.8
+Fintech,ChatGPT,500,28.4
+Fintech,Perplexity,500,33.1
+Fintech,Gemini,500,18.9
+Healthcare,ChatGPT,500,21.0
+Healthcare,Perplexity,500,29.5
+Healthcare,Gemini,500,15.2
+Education,ChatGPT,500,35.8
+Education,Perplexity,500,22.4
+Education,Gemini,500,20.1
